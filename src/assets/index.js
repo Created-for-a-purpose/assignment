@@ -1,0 +1,32 @@
+import logo from "./logoCharacter.png"
+import gif from "./upperGif.gif"
+import svg from "./particle.svg"
+import card1 from "./card1.png"
+import card2 from "./card2.png"
+import card3 from "./card3.png"
+import wave from "./wave.svg"
+import mcard1 from "./mcard1.png"
+import mcard2 from "./mcard2.png"
+import mcard3 from "./mcard3.png"
+import mcard4 from "./mcard4.png"
+import mcard5 from "./mcard5.png"
+import middleBg from "./middleBg.svg"
+import drum from "./drum.svg"
+import dash from "./dash.svg"
+import ps from "./ps.jpg"
+import aj from "./aj.jpeg"
+import post1 from "./post1.jpg"
+import post2 from "./post2.jpg"
+import contact from "./contact.png"
+import vlogo from "./navbarImage.png"
+import link from "./linkedin.svg"
+import insta from "./insta.svg"
+import gmail from "./gmail.svg"
+import mail from "./mail.svg"
+import house from "./house.svg"
+import contactBg from "./contactbg.jpg"
+
+export {
+    logo, gif, svg, card1, card2, card3, wave, mcard1, mcard2, mcard3, mcard4, mcard5, middleBg, drum, dash,
+    ps, aj, post1, post2, contact, vlogo, link, insta, gmail, mail, house, contactBg
+}

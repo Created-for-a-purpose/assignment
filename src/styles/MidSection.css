@@ -1,0 +1,83 @@
+.middle-section {
+    background-color: white;
+}
+
+.middle-section-header {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.middle-section-header h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 1.5rem
+}
+
+.middle-section-header hr {
+    border-style: solid;
+    color: #00D4FF;
+    border-top-width: 4.3px;
+    width: 150px;
+}
+
+.middle-section-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.middle-section-card {
+    height: 430px;
+    width: 320px;
+    border-style: groove;
+    border-radius: 10px;
+    border-width: 15px 0px 0px 0px;
+    border-color: #00D4FF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+}
+
+.middle-section-card img {
+    max-width: 55%;
+    transition-duration: 0.3s;
+}
+
+.middle-section-card img:hover {
+    transform: scale(1.1);
+}
+
+.middle-section-card h5 {
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.middle-section-card ul {
+    text-align: left;
+}
+
+.middle-section-card li {
+    color: #165F65;
+}
+
+.middle-section-card li::marker {
+    color: #0E9B5E;
+    font-size: 22px;
+}
+
+.middle-section-card li:hover {
+    color: orange
+}
+
+.middle-section-bottom {
+    rotate: 180deg;
+    width: 100%;
+}
+
+path {
+    fill: #5DE0D8;
+}
